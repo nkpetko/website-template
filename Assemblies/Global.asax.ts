@@ -1,7 +1,7 @@
 /*
-	FileName: Roblox.Global.asax.ts
-	Written By: Nikita Nikolaevich Petko,
-	Description: Copy of ROBLOX's Roblox.Global.asax.cs
+	FileName: Global.asax.ts
+	Written By: YOU
+	Description: The default runtime
 */
 
 import IServer from 'express';
