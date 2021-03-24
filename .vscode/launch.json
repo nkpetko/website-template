@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "Full-Debug",
+			"cwd": "${workspaceFolder}",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run-script", "Full-Debug"],
+			"envFile": "${workspaceFolder}/.env"
+		}
+	],
+	"compounds": []
+}
