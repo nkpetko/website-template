@@ -1,0 +1,19 @@
+{
+	"Web": {
+		"FVariable": {},
+		"FLog": {},
+		"DFLog": {},
+		"SFLog": {},
+		"FFlag": {},
+		"DFFlag": {},
+		"SFFlag": {},
+		"FInt": {},
+		"DFInt": {},
+		"SFInt": {},
+		"FString": {},
+		"DFString": {},
+		"SFString": {}
+	},
+	"FSettings": ["Web"],
+	"TODO": []
+}
