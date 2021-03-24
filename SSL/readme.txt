@@ -1,0 +1,1 @@
+Use this to configure your server for SSL.
