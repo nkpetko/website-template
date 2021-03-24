@@ -1,0 +1,2 @@
+# Ignore js files because they won't be edited regulary
+*.js
