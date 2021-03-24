@@ -1,0 +1,1 @@
+Use this to place html views, these views are extremely similar to MVC Views
