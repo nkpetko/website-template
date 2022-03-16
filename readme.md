@@ -1,3 +1,4 @@
+<h1 align="center"><b>Archived until further notice.</b></h1>
 <h2 align="center"><b>A simple Website Template for Express JS.</b></h2>
 <hr />
 <br />
